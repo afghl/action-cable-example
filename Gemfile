@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -24,7 +24,7 @@ gem 'redis', '~> 3.0'
 
 
 
-group :production do 
+group :production do
   gem 'rails_12factor'
 end
 
